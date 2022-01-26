@@ -1,4 +1,4 @@
-# RSD & Similarity Code Part 1/5
+.# RSD & Similarity Code Part 1/5
 
 ########################### Table of Contents #############################
 # 1. inherent_noise_encode_00_functions.r
